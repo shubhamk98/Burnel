@@ -17,8 +17,6 @@ To run the project on your local machine, make sure you have Node.js installed.
 2. Enter the dir run the following cmd.
    ```sh
    npm install
-   
-   ```sh
    npm run dev
 
 ThanksYou 
