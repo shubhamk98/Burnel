@@ -1,8 +1,23 @@
-# React + Vite
+# Burnel
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tech Used
+  This project is made using ReactJs, ReactHookForm, ReactIcons.
 
-Currently, two official plugins are available:
+## Getting Started
+To run the project on your local machine, make sure you have Node.js installed.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Prerequisites
+- Node.js
+
+### Installation
+1. Clone the repository to your local machine.
+   ```sh
+   https://github.com/shubhamk98/Burnel.git
+
+2. Enter the dir run the following cmd.
+   ```sh
+   npm install
+   npm run dev
+
+ThanksYou 
+Email-: kambojshubham277@gmail.com
