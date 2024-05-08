@@ -1,3 +1,18 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.bounce-out-top {
+    -webkit-animation: bounce-out-top 1.5s both;
+    animation: bounce-out-top 1.5s both;
+}
+
+
+  
