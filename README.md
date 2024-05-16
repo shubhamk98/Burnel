@@ -1,4 +1,4 @@
-# Burnel
+# Burnel - Link - https://burnel.vercel.app/
 
 ## Tech Used
   This project is made using ReactJs, ReactHookForm, ReactIcons.
